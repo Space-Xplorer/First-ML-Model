@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Maheshwar aka Space-Xplorer
-- 👀 I’m interested in Tech, Aerospace and Astrophysics
-- 🌱 I’m currently learning PCM class 12
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Mail me on maheshwarpatn@gmail.com,  or  Discord - Mahesh#3679
+- 👋 Hi, I’m Patnala Maheshwar aka Space-Xplorer
+- 👀 I’m interested in everything Tech and Science
+- 🌱 I’m currently studying Computer Science Engineering with AIML as my minors
+- 📫 How to reach me: Mail me on maheshwarpatn@gmail.com, Discord - mahesh18#9830 or Instagram - space_xplorer18
 
 <!---
 Space-Xplorer/Space-Xplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
